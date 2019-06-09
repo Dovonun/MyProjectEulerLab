@@ -1,0 +1,12 @@
+In file included from C:\Users\dovon\Documents\Cpp\MyProjectEulerLab\main.cpp:3:
+C:\Users\dovon\Documents\Cpp\MyProjectEulerLab\Problem1.h:7:25: error: expected ']' before ',' token
+ int problem1(int value[3,5]){
+                         ^
+                         ]
+C:\Users\dovon\Documents\Cpp\MyProjectEulerLab\Problem1.h:7:25: error: expected ')' before ',' token
+ int problem1(int value[3,5]){
+             ~           ^
+                         )
+C:\Users\dovon\Documents\Cpp\MyProjectEulerLab\Problem1.h:7:26: error: expected unqualified-id before numeric constant
+ int problem1(int value[3,5]){
+                          ^
